@@ -1,3 +1,4 @@
+![Project Architecture](fi.png)
 # Cabbage API Hooking Lab
 
 An educational research project exploring Windows API hooking,
