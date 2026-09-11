@@ -1,4 +1,7 @@
-![Project Architecture](fi.png)
+<p align="center">
+  <img src="Hooook.png" width="48%" />
+  <img src="fi.png" width="48%" />
+</p>
 # Cabbage API Hooking Lab
 
 An educational research project exploring Windows API hooking,
